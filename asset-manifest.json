@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/earth3d/static/css/main.bb3b6d7f.css",
+    "main.js": "/earth3d/static/js/main.8b572e15.js",
+    "static/js/599.33507c6a.chunk.js": "/earth3d/static/js/599.33507c6a.chunk.js",
+    "static/js/453.f0d9d010.chunk.js": "/earth3d/static/js/453.f0d9d010.chunk.js",
+    "static/js/381.8b55be22.chunk.js": "/earth3d/static/js/381.8b55be22.chunk.js",
+    "static/media/globe_texture.webp": "/earth3d/static/media/globe_texture.9491d22574338fbded05.webp",
+    "static/media/stars_global_bg.webp": "/earth3d/static/media/stars_global_bg.d37d0c1aba464e46329a.webp",
+    "index.html": "/earth3d/index.html",
+    "main.bb3b6d7f.css.map": "/earth3d/static/css/main.bb3b6d7f.css.map",
+    "main.8b572e15.js.map": "/earth3d/static/js/main.8b572e15.js.map",
+    "599.33507c6a.chunk.js.map": "/earth3d/static/js/599.33507c6a.chunk.js.map",
+    "453.f0d9d010.chunk.js.map": "/earth3d/static/js/453.f0d9d010.chunk.js.map",
+    "381.8b55be22.chunk.js.map": "/earth3d/static/js/381.8b55be22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb3b6d7f.css",
+    "static/js/main.8b572e15.js"
+  ]
+}
