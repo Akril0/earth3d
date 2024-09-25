@@ -1,14 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import ParticleScene from "./components/ParticleScene";
-import {OrbitControls} from "@react-three/drei";
+import ParticleScene from "./components/CanvasScene";
 
 function App() {
     return (
         <div style={{height: '100vh', width: '100vw'}}>
             <ParticleScene/>
-
         </div>
     );
 }

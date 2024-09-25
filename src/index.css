@@ -5,7 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #1a2153;
+  background-color: #000000;
+  background-image: url('./assets/img/stars_global_bg.webp');
 }
 
 code {
